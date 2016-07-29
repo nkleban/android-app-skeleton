@@ -1,7 +1,6 @@
-package net.intellectsoft.skeleton.presentation.ui;
+package net.intellectsoft.skeleton.presentation.common;
 
 import net.intellectsoft.core.mvp.presentation.ui.BaseAppCompatActivity;
-import net.intellectsoft.skeleton.presentation.Navigator;
 
 import javax.inject.Inject;
 

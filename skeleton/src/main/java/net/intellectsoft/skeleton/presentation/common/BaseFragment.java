@@ -1,9 +1,8 @@
-package net.intellectsoft.skeleton.presentation.ui;
+package net.intellectsoft.skeleton.presentation.common;
 
 import android.content.Context;
 
 import net.intellectsoft.core.mvp.presentation.ui.BaseCompatFragment;
-import net.intellectsoft.skeleton.presentation.Navigator;
 
 public abstract class BaseFragment extends BaseCompatFragment {
 
